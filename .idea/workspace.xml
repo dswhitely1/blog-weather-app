@@ -6,6 +6,7 @@
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/store/rootReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/rootReducer.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/store/useActions.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/useActions.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/store/weather/useWeatherActions.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/weather/useWeatherActions.tsx" afterDir="false" />
@@ -66,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583421968844</updated>
-      <workItem from="1583421972057" duration="2327000" />
+      <workItem from="1583421972057" duration="2726000" />
     </task>
     <servers />
   </component>

@@ -17,3 +17,7 @@ export const useWeatherActions = () => {
 
     return {fetchAlerts}
 };
+
+export interface UseWeatherActions {
+    fetchAlerts: () => void
+}
